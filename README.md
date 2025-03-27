@@ -95,7 +95,7 @@ def train_model(model, train_loader,criterion,optimizer,epochs):
 ```
 
 ## Dataset Information
-![alt text](<Screenshot 2025-03-21 095032-1.png>)
+![alt text](<Screenshot 2025-03-21 095032.png>)
 
 
 
